@@ -1,8 +1,8 @@
-package com.javaex.ex03;
+package com.javaex.ex04;
 
 import java.util.Scanner;
 
-public class Ex14 {
+public class Ex02 {
 	
 	public static void main(String[] args) {
 		
