@@ -5,12 +5,12 @@ public class Ex09 {
 	public static void main(String[] args) {
 		
 		int i = 1;
-
 		while (true) {
-			
-			if(i%6==0&&i%14==0) {
+			int x = i%6;
+			int y = i%14;
+			if(x==0&&y==0) {
 				System.out.println(i);
-			break;
+				break;
 			}
 			
 			i++;
